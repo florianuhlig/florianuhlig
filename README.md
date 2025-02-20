@@ -27,7 +27,7 @@ Here are some of my notable projects:
 
 ## GitHub Stats
 
-![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=florianuhlig&show_icons=true&theme=radical)
+![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=florianuhlig&show_icons=true&theme=one_dark_pro)
 
 ## Let's Connect
 
