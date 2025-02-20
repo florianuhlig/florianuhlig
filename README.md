@@ -33,6 +33,6 @@ Here are some of my notable projects:
 
 Feel free to connect with me on LinkedIn or send me an email. I'm always open to discussing new projects, collaborations, or just chatting about tech!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/florianuhlig)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/florian-uhlig)
 [![Email](https://img.shields.io/badge/Email-Send%20an%20Email-red)](mailto:github.fuh@fuhlig.de)
 
