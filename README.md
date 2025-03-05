@@ -25,10 +25,6 @@ Here are some of my notable projects:
 
 - **[Docker compose files](https://github.com/florianuhlig/Docker):** A docker compose collection
 
-## GitHub Stats
-
-![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=florianuhlig&show_icons=true&theme=one_dark_pro)
-
 ## Let's Connect
 
 Feel free to connect with me on LinkedIn or send me an email. I'm always open to discussing new projects, collaborations, or just chatting about tech!
